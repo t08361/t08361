@@ -20,7 +20,7 @@
 <div class="boj" align="center">
 <h3>🏅 BAEKJOON 🏅</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=t08361)](https://solved.ac/t08361/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyongjoon64)](https://solved.ac/joyongjoon64/)
 <br>
 <br>
 <h3>💻 Most Used Language 💻</h3>
