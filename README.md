@@ -24,7 +24,7 @@
 <br>
 <br>
 <h3>💻 Most Used Language 💻</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujin-zero&layout=compact&theme=tokyonight&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t08361&layout=compact&theme=tokyonight&langs_count=8">
 
 </div>
 <br>
